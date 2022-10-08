@@ -1,4 +1,4 @@
-package ders3.abstractClass;
+package ders3.youtubeExample.abstractClass;
 
 public class Main {
     public static void main(String[] args) {

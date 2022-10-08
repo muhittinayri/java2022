@@ -1,4 +1,4 @@
-package ders3.opp;
+package ders3.youtubeExample.opp;
 
 public class Main {
     public static void main(String[] args) {

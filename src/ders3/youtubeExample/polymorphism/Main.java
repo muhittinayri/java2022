@@ -1,4 +1,4 @@
-package ders3.polymorphism;
+package ders3.youtubeExample.polymorphism;
 
 public class Main {
     public static void main(String[] args) {
